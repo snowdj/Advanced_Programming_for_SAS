@@ -14,6 +14,7 @@ Major topics include SQL processing with SAS and the SAS macro language, advance
    - Analyze the data
    - Interpret, discuss, and present the finfdings 
    - Follow-Up   
+
 #### The Workflow of data: 
   - Create structure
   - Enter/Import data
@@ -21,6 +22,7 @@ Major topics include SQL processing with SAS and the SAS macro language, advance
   - Describe data
   - Transform data
   - Create a Codebook 
+
 #### Hypothesis Testing:
    -  Formaulate the Hypothesis 
    -  Choose the significant level 
@@ -28,6 +30,7 @@ Major topics include SQL processing with SAS and the SAS macro language, advance
    -  Calculate the test statistic
    -  Make the test decision
    -  Interpret the results  
+
 #### Regression Analysis:
    -  Check the regression analysis data requirements
    -  Specify and estimate the regression model
