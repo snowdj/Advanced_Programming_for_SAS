@@ -5,6 +5,7 @@ filename W4BMI "C:\abc\BMI.xls";
 
 /* Subsetting    */
 /* Reading Excel */
+
 PROC IMPORT
 	DATAFILE = W4BMI
 	OUT=BMI DBMS=XLS Replace ;
